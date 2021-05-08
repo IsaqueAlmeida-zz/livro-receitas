@@ -1,6 +1,7 @@
-# Livro de Receitas :book:
+- Livro de Receitas 📖
 
-Ola! Bem-vindo ao meu livro de receitas!! :wave:
+  Ola! Bem-vindo ao meu livro de receitas!! 👋
 
-- Coxinha de Frango
-- Pavê
+  - Coxinha de Frango
+  - Pavê
+  - Bolo de Cenoura
